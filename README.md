@@ -1,4 +1,5 @@
-![Uploading scoreme assignment screenshot.png…]()
+![scoreme assignment screenshot](https://github.com/AnishThakar/assignment_thapar_scoreme_802232006/assets/32153763/2061b4b5-d406-41fd-af99-6aa47ffca132)
+
 # Longest Path in a Weighted Directed Acyclic Graph (DAG)
 
 ## Instructions

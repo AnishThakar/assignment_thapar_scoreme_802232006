@@ -1,3 +1,4 @@
+![Uploading scoreme assignment screenshot.png…]()
 # Longest Path in a Weighted Directed Acyclic Graph (DAG)
 
 ## Instructions
